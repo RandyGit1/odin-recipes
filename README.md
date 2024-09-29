@@ -1,3 +1,5 @@
+# odin-recipes
+
 This is a odin project. 
 
 A recipe page containing solely HTML will be the focus here, but this page will be revisited in the future with CSS. 
